@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\2.GenericBoxofInteger\2.GenericBoxofInteger\bin\Debug\netcoreapp3.1\2.GenericBoxofInteger.exe
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\2.GenericBoxofInteger\2.GenericBoxofInteger\bin\Debug\netcoreapp3.1\2.GenericBoxofInteger.deps.json
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\2.GenericBoxofInteger\2.GenericBoxofInteger\bin\Debug\netcoreapp3.1\2.GenericBoxofInteger.runtimeconfig.json
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\2.GenericBoxofInteger\2.GenericBoxofInteger\bin\Debug\netcoreapp3.1\2.GenericBoxofInteger.runtimeconfig.dev.json
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\2.GenericBoxofInteger\2.GenericBoxofInteger\bin\Debug\netcoreapp3.1\2.GenericBoxofInteger.dll
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\2.GenericBoxofInteger\2.GenericBoxofInteger\bin\Debug\netcoreapp3.1\2.GenericBoxofInteger.pdb
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\2.GenericBoxofInteger\2.GenericBoxofInteger\obj\Debug\netcoreapp3.1\2.GenericBoxofInteger.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\2.GenericBoxofInteger\2.GenericBoxofInteger\obj\Debug\netcoreapp3.1\2.GenericBoxofInteger.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\2.GenericBoxofInteger\2.GenericBoxofInteger\obj\Debug\netcoreapp3.1\2.GenericBoxofInteger.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\2.GenericBoxofInteger\2.GenericBoxofInteger\obj\Debug\netcoreapp3.1\2.GenericBoxofInteger.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\2.GenericBoxofInteger\2.GenericBoxofInteger\obj\Debug\netcoreapp3.1\2.GenericBoxofInteger.dll
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\2.GenericBoxofInteger\2.GenericBoxofInteger\obj\Debug\netcoreapp3.1\2.GenericBoxofInteger.pdb
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\2.GenericBoxofInteger\2.GenericBoxofInteger\obj\Debug\netcoreapp3.1\2.GenericBoxofInteger.genruntimeconfig.cache
