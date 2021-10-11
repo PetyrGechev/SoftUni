@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\4.GenericSwapMethodIntegers\4.GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\4.GenericSwapMethodIntegers.exe
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\4.GenericSwapMethodIntegers\4.GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\4.GenericSwapMethodIntegers.deps.json
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\4.GenericSwapMethodIntegers\4.GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\4.GenericSwapMethodIntegers.runtimeconfig.json
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\4.GenericSwapMethodIntegers\4.GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\4.GenericSwapMethodIntegers.runtimeconfig.dev.json
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\4.GenericSwapMethodIntegers\4.GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\4.GenericSwapMethodIntegers.dll
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\4.GenericSwapMethodIntegers\4.GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\4.GenericSwapMethodIntegers.pdb
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\4.GenericSwapMethodIntegers\4.GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4.GenericSwapMethodIntegers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\4.GenericSwapMethodIntegers\4.GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4.GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\4.GenericSwapMethodIntegers\4.GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4.GenericSwapMethodIntegers.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\4.GenericSwapMethodIntegers\4.GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4.GenericSwapMethodIntegers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\4.GenericSwapMethodIntegers\4.GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4.GenericSwapMethodIntegers.dll
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\4.GenericSwapMethodIntegers\4.GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4.GenericSwapMethodIntegers.pdb
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\4.GenericSwapMethodIntegers\4.GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\4.GenericSwapMethodIntegers.genruntimeconfig.cache
