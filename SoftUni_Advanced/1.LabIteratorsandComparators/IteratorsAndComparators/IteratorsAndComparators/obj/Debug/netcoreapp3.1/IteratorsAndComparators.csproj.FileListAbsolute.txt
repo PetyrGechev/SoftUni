@@ -10,3 +10,4 @@ C:\Users\User\source\repos\SoftUni_Advanced\1.LabIteratorsandComparators\Iterato
 C:\Users\User\source\repos\SoftUni_Advanced\1.LabIteratorsandComparators\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.dll
 C:\Users\User\source\repos\SoftUni_Advanced\1.LabIteratorsandComparators\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
 C:\Users\User\source\repos\SoftUni_Advanced\1.LabIteratorsandComparators\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.genruntimeconfig.cache
+C:\Users\User\source\repos\SoftUni_Advanced\1.LabIteratorsandComparators\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csprojAssemblyReference.cache

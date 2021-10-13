@@ -9,19 +9,60 @@ namespace IteratorsAndComparators
 
     {
 
-    public List<Book> Books { get; set; }
+        public List<Book> Books { get; set; }
 
-    public Library(params Book[] books)
-    {
-        Books = new List<Book>(books);
-    }
-
-        public IEnumerator GetEnumerator()
+        public Library(params Book[] books)
         {
-            foreach (var book in Books)
+            Books = new List<Book>(books);
+        }
+
+
+
+
+        private class LibraryIterator : IEnumerator<Book>
+        {
+            private List<Book> books { get; set; }
+            private int currentIndex;
+            public LibraryIterator(List<Book> books)
             {
-                yield return book.Title;
+                Reset();
+                this.books = new List<Book>(books);
+            }
+            public Book Current => books[currentIndex];
+
+            object IEnumerator.Current => Current;
+
+            public void Dispose()
+            {
+
+            }
+
+            public bool MoveNext()
+            {
+                currentIndex++;
+                if (currentIndex < books.Count)
+                {
+                    return true;
+
+                }
+                else
+                {
+                    return false;
+                }
+            }
+
+            public void Reset()
+            {
+                currentIndex = -1;
             }
         }
+
+        public IEnumerator<Book> GetEnumerator()
+        {
+            return new LibraryIterator(Books);
+        }
+
+        IEnumerator IEnumerable.GetEnumerator() => this.GetEnumerator();
+
     }
 }
