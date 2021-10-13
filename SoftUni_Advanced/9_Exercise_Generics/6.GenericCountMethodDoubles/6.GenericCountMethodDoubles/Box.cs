@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace _5.GenericCountMethodStrings
+namespace _6.GenericCountMethodDoubles
 {
+
     public class Box<T> where T : IComparable
     {
         public Box(List<T> elements)
@@ -19,8 +20,8 @@ namespace _5.GenericCountMethodStrings
             int counter = 0;
             foreach (var element in Elements)
             {
-                if (elementToCompare.CompareTo(element)<0
-                    )
+                if (elementToCompare.CompareTo(element) < 0
+                )
                 {
                     counter++;
                 }
@@ -44,10 +45,9 @@ namespace _5.GenericCountMethodStrings
             {
                 sb.AppendLine($"{element.GetType()}: {element}");
             }
-                
+
             return sb.ToString().TrimEnd();
             //return $"{Input.GetType()}: {Input}";
         }
     }
-
 }

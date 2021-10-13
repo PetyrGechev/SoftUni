@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\8.Threeuple\8.Threeuple\bin\Debug\netcoreapp3.1\8.Threeuple.exe
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\8.Threeuple\8.Threeuple\bin\Debug\netcoreapp3.1\8.Threeuple.deps.json
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\8.Threeuple\8.Threeuple\bin\Debug\netcoreapp3.1\8.Threeuple.runtimeconfig.json
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\8.Threeuple\8.Threeuple\bin\Debug\netcoreapp3.1\8.Threeuple.runtimeconfig.dev.json
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\8.Threeuple\8.Threeuple\bin\Debug\netcoreapp3.1\8.Threeuple.dll
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\8.Threeuple\8.Threeuple\bin\Debug\netcoreapp3.1\8.Threeuple.pdb
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\8.Threeuple\8.Threeuple\obj\Debug\netcoreapp3.1\8.Threeuple.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\8.Threeuple\8.Threeuple\obj\Debug\netcoreapp3.1\8.Threeuple.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\8.Threeuple\8.Threeuple\obj\Debug\netcoreapp3.1\8.Threeuple.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\8.Threeuple\8.Threeuple\obj\Debug\netcoreapp3.1\8.Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\8.Threeuple\8.Threeuple\obj\Debug\netcoreapp3.1\8.Threeuple.dll
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\8.Threeuple\8.Threeuple\obj\Debug\netcoreapp3.1\8.Threeuple.pdb
+C:\Users\User\source\repos\SoftUni_Advanced\9_Exercise_Generics\8.Threeuple\8.Threeuple\obj\Debug\netcoreapp3.1\8.Threeuple.genruntimeconfig.cache

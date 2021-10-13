@@ -2,22 +2,22 @@
 using System.Collections.Generic;
 
 namespace _5.GenericCountMethodStrings
-{
+{\
   public  class StartUp
     {
         static void Main(string[] args)
         {
 
-            int n = int.Parse(Console.ReadLine());
-            var list = new List<string>();
+            double n = double.Parse(Console.ReadLine());
+            var list = new List<double>();
             for (int i = 0; i < n; i++)
             {
-                list.Add(Console.ReadLine());
+                list.Add(double.Parse(Console.ReadLine()));
             }
 
-            Box<string> box = new Box<string>(list);
-            string elementToCompare = Console.ReadLine();
-            int result = box.CompareTo(elementToCompare);
+            Box<double> box = new Box<double>(list);
+            double elementToCompare = double.Parse(Console.ReadLine());
+            double result = box.CompareTo(elementToCompare);
             Console.WriteLine(result);
 
 
