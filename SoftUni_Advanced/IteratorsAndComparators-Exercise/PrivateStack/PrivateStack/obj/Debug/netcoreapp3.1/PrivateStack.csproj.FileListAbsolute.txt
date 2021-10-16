@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\SoftUni_Advanced\IteratorsAndComparators-Exercise\PrivateStack\PrivateStack\bin\Debug\netcoreapp3.1\PrivateStack.exe
+C:\Users\User\source\repos\SoftUni_Advanced\IteratorsAndComparators-Exercise\PrivateStack\PrivateStack\bin\Debug\netcoreapp3.1\PrivateStack.deps.json
+C:\Users\User\source\repos\SoftUni_Advanced\IteratorsAndComparators-Exercise\PrivateStack\PrivateStack\bin\Debug\netcoreapp3.1\PrivateStack.runtimeconfig.json
+C:\Users\User\source\repos\SoftUni_Advanced\IteratorsAndComparators-Exercise\PrivateStack\PrivateStack\bin\Debug\netcoreapp3.1\PrivateStack.runtimeconfig.dev.json
+C:\Users\User\source\repos\SoftUni_Advanced\IteratorsAndComparators-Exercise\PrivateStack\PrivateStack\bin\Debug\netcoreapp3.1\PrivateStack.dll
+C:\Users\User\source\repos\SoftUni_Advanced\IteratorsAndComparators-Exercise\PrivateStack\PrivateStack\bin\Debug\netcoreapp3.1\PrivateStack.pdb
+C:\Users\User\source\repos\SoftUni_Advanced\IteratorsAndComparators-Exercise\PrivateStack\PrivateStack\obj\Debug\netcoreapp3.1\PrivateStack.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SoftUni_Advanced\IteratorsAndComparators-Exercise\PrivateStack\PrivateStack\obj\Debug\netcoreapp3.1\PrivateStack.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni_Advanced\IteratorsAndComparators-Exercise\PrivateStack\PrivateStack\obj\Debug\netcoreapp3.1\PrivateStack.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni_Advanced\IteratorsAndComparators-Exercise\PrivateStack\PrivateStack\obj\Debug\netcoreapp3.1\PrivateStack.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni_Advanced\IteratorsAndComparators-Exercise\PrivateStack\PrivateStack\obj\Debug\netcoreapp3.1\PrivateStack.dll
+C:\Users\User\source\repos\SoftUni_Advanced\IteratorsAndComparators-Exercise\PrivateStack\PrivateStack\obj\Debug\netcoreapp3.1\PrivateStack.pdb
+C:\Users\User\source\repos\SoftUni_Advanced\IteratorsAndComparators-Exercise\PrivateStack\PrivateStack\obj\Debug\netcoreapp3.1\PrivateStack.genruntimeconfig.cache
