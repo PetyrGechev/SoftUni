@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "2.TheBattleofTheFiveArmies/1.0.0": {
+        "runtime": {
+          "2.TheBattleofTheFiveArmies.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2.TheBattleofTheFiveArmies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
