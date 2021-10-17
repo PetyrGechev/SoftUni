@@ -102,7 +102,7 @@ namespace _2.TheBattleofTheFiveArmies
                     break;
                 }
                 matrix[armyRow][armyCol] = 'A';
-                PrintMatrix(matrix);
+               
             }
 
         }
