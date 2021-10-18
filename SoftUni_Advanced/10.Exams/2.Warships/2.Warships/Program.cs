@@ -12,10 +12,9 @@ namespace _2.Warships
             char[,] matrix = new char[n, n];
             List<string> firstPlayer = new List<string>();
             List<string> secondPlayer = new List<string>();
-            string[] cordinates = Console.ReadLine().Split(",");
+            string[] cordinates = Console.ReadLine().Split(",",StringSplitOptions.RemoveEmptyEntries);
             int firstPlayerships = 0;
             int secondPlayerships = 0;
-            
             bool firstPlayerTurn = true;
             for (int i = 0; i < cordinates.Length; i++)
             {
@@ -28,22 +27,17 @@ namespace _2.Warships
                     secondPlayer.Add(cordinates[i]);
                 }
             }
-
             for (int row = 0; row < matrix.GetLength(0); row++)
             {
                 string[] input = Console.ReadLine().Split();
                 string inputTest = string.Join("", input);
-
-
                 for (int col = 0; col < matrix.GetLength(1); col++)
                 {
                     matrix[row, col] = inputTest[col];
                 }
             }
-
             for (int row = 0; row < matrix.GetLength(0); row++)
             {
-
                 for (int col = 0; col < matrix.GetLength(1); col++)
                 {
                     if (matrix[row, col] == '<')
@@ -55,19 +49,16 @@ namespace _2.Warships
                         secondPlayerships++;
                     }
                 }
-
-
             }
             int totalShips = firstPlayerships + secondPlayerships;
             int number = firstPlayer.Count + secondPlayer.Count;
             for (int i = 0; i < number; i++)
             {
-
                 if (firstPlayerTurn == true)
                 {
                     if (firstPlayer.Count > 0)
                     {
-                        string[] cordinatesFirstPlayer = firstPlayer[0].Split(" ");
+                        string[] cordinatesFirstPlayer = firstPlayer[0].Split(" ",StringSplitOptions.RemoveEmptyEntries);
                         int row = int.Parse(cordinatesFirstPlayer[0]);
                         int col = int.Parse(cordinatesFirstPlayer[1]);
                         firstPlayer.RemoveAt(0);
@@ -154,7 +145,7 @@ namespace _2.Warships
                                 {
                                     firstPlayerships--;
                                 }
-                                matrix[row , col + 1] = 'X';
+                                matrix[row, col + 1] = 'X';
                             }
                             if (IsValid(matrix, row + 1, col - 1))
                             {
@@ -192,27 +183,20 @@ namespace _2.Warships
                                 }
                                 matrix[row + 1, col + 1] = 'X';
                             }
-
-
                         }
-
                         if (secondPlayerships < 1)
                         {
                             break;
 
                         }
-
-
                     }
                     firstPlayerTurn = false;
-                    Print(matrix);
-
                 }
                 else
                 {
                     if (secondPlayer.Count > 0)
                     {
-                        string[] cordinatesSecondPlayer = secondPlayer[0].Split(" ");
+                        string[] cordinatesSecondPlayer = secondPlayer[0].Split(" ",StringSplitOptions.RemoveEmptyEntries);
                         int row = int.Parse(cordinatesSecondPlayer[0]);
                         int col = int.Parse(cordinatesSecondPlayer[1]);
                         secondPlayer.RemoveAt(0);
@@ -341,7 +325,6 @@ namespace _2.Warships
 
 
                         }
-
                         if (firstPlayerships < 1)
                         {
                             break;
@@ -351,11 +334,10 @@ namespace _2.Warships
 
                     }
                     firstPlayerTurn = true;
-                    Print(matrix);
+
                 }
 
             }
-
             if (secondPlayerships < 1)
             {
                 Console.WriteLine($"Player One has won the game! {totalShips - firstPlayerships - secondPlayerships} ships have been sunk in the battle.");
@@ -368,16 +350,6 @@ namespace _2.Warships
             {
                 Console.WriteLine($"It's a draw! Player One has {firstPlayerships} ships left. Player Two has {secondPlayerships} ships left.");
             }
-            // 0 0  2 2  4 2  3 6
-            // -1 -1  4 4  3 3
-            //Console.WriteLine(string.Join(" ", firstPlayer));
-            //Console.WriteLine(string.Join(" ", secondPlayer));
-
-
-
-            // Print(matrix);
-
-
 
             static void Print(char[,] matrix)
             {
@@ -393,14 +365,12 @@ namespace _2.Warships
                 }
 
             }
-
             static bool IsValid(char[,] matrix, int row, int col)
             {
                 if (row < 0 || row >= matrix.GetLength(0) || col < 0 || col >= matrix.GetLength(1))
                 {
                     return false;
                 }
-
                 return true;
             }
         }
