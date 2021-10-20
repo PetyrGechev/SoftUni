@@ -132,10 +132,10 @@ namespace _2.Survivor
 
                 command = Console.ReadLine();
             }
-
+            Print(field);
             Console.WriteLine($"Collected tokens: {myPlayerTokens}");
             Console.WriteLine($"Opponent's tokens: {OppositePlayerTokens}");
-            Print(field);
+            
 
             static void Print(char[][] matrix)
             {
