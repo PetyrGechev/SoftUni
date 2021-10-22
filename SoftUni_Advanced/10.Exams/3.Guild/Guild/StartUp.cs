@@ -20,8 +20,8 @@ namespace Guild
 
             //Add player
             guild.AddPlayer(player);
-            guild.AddPlayer(player2);
-            guild.AddPlayer(player3);
+            guild.AddPlayer(player);
+
             Console.WriteLine(guild.Count); //1
             Console.WriteLine(guild.RemovePlayer("Gosho")); //False
 
