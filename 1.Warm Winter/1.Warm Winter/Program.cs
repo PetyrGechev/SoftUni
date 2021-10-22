@@ -9,32 +9,13 @@ namespace _1.Warm_Winter
     {
         static void Main(string[] args)
         {
-            Stack<int> hats = new Stack<int>(Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse));
-            Queue<int> scarfs = new Queue<int>(Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse));
-            List<int> sets = new List<int>();
-            while (hats.Count>0&&scarfs.Count>0)
+            Stack<int> allFood = new Stack<int>(Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse));
+            Queue<int> allGuests = new Queue<int>(Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse));
+
+            while (allFood.Any()&&all)
             {
-                var hat = hats.Peek();
-                var scarf = scarfs.Peek();
-                int sum = hat + scarf;
-                if (hat > scarf)
-                {
-                    sets.Add(sum);
-                    hats.Pop();
-                    scarfs.Dequeue();
-                }
-                else if (scarf>hat)
-                {
-                    hats.Pop();
-                }
-                else
-                {
-                    hats.Push(hats.Pop() + 1);
-                    scarfs.Dequeue();
-                }
+
             }
-            Console.WriteLine($"The most expensive set is: {sets.Max()}");
-            Console.WriteLine(string.Join(" ",sets));
         }
     }
 }

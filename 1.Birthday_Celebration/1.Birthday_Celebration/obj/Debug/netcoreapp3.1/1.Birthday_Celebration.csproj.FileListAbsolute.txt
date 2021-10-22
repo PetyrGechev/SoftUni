@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\1.Birthday_Celebration\1.Birthday_Celebration\bin\Debug\netcoreapp3.1\1.Birthday_Celebration.exe
+C:\Users\User\source\repos\1.Birthday_Celebration\1.Birthday_Celebration\bin\Debug\netcoreapp3.1\1.Birthday_Celebration.deps.json
+C:\Users\User\source\repos\1.Birthday_Celebration\1.Birthday_Celebration\bin\Debug\netcoreapp3.1\1.Birthday_Celebration.runtimeconfig.json
+C:\Users\User\source\repos\1.Birthday_Celebration\1.Birthday_Celebration\bin\Debug\netcoreapp3.1\1.Birthday_Celebration.runtimeconfig.dev.json
+C:\Users\User\source\repos\1.Birthday_Celebration\1.Birthday_Celebration\bin\Debug\netcoreapp3.1\1.Birthday_Celebration.dll
+C:\Users\User\source\repos\1.Birthday_Celebration\1.Birthday_Celebration\bin\Debug\netcoreapp3.1\1.Birthday_Celebration.pdb
+C:\Users\User\source\repos\1.Birthday_Celebration\1.Birthday_Celebration\obj\Debug\netcoreapp3.1\1.Birthday_Celebration.csprojAssemblyReference.cache
+C:\Users\User\source\repos\1.Birthday_Celebration\1.Birthday_Celebration\obj\Debug\netcoreapp3.1\1.Birthday_Celebration.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\1.Birthday_Celebration\1.Birthday_Celebration\obj\Debug\netcoreapp3.1\1.Birthday_Celebration.AssemblyInfo.cs
+C:\Users\User\source\repos\1.Birthday_Celebration\1.Birthday_Celebration\obj\Debug\netcoreapp3.1\1.Birthday_Celebration.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\1.Birthday_Celebration\1.Birthday_Celebration\obj\Debug\netcoreapp3.1\1.Birthday_Celebration.dll
+C:\Users\User\source\repos\1.Birthday_Celebration\1.Birthday_Celebration\obj\Debug\netcoreapp3.1\1.Birthday_Celebration.pdb
+C:\Users\User\source\repos\1.Birthday_Celebration\1.Birthday_Celebration\obj\Debug\netcoreapp3.1\1.Birthday_Celebration.genruntimeconfig.cache
