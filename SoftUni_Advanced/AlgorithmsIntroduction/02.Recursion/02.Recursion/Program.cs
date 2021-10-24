@@ -6,7 +6,18 @@ namespace _02.Recursion
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(GetFactoriel(5));
+            static int GetFactoriel(int number)
+            {
+                
+                if (number==0)
+                {
+                    return 1;
+                }
+
+                return number * GetFactoriel(number - 1);
+
+            }
         }
     }
 }
