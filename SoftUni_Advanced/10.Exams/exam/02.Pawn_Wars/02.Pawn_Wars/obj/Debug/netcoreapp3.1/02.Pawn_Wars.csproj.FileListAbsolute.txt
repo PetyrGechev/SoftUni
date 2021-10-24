@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\02.Pawn_Wars\02.Pawn_Wars\bin\Debug\netcoreapp3.1\02.Pawn_Wars.exe
+C:\Users\User\source\repos\02.Pawn_Wars\02.Pawn_Wars\bin\Debug\netcoreapp3.1\02.Pawn_Wars.deps.json
+C:\Users\User\source\repos\02.Pawn_Wars\02.Pawn_Wars\bin\Debug\netcoreapp3.1\02.Pawn_Wars.runtimeconfig.json
+C:\Users\User\source\repos\02.Pawn_Wars\02.Pawn_Wars\bin\Debug\netcoreapp3.1\02.Pawn_Wars.runtimeconfig.dev.json
+C:\Users\User\source\repos\02.Pawn_Wars\02.Pawn_Wars\bin\Debug\netcoreapp3.1\02.Pawn_Wars.dll
+C:\Users\User\source\repos\02.Pawn_Wars\02.Pawn_Wars\bin\Debug\netcoreapp3.1\02.Pawn_Wars.pdb
+C:\Users\User\source\repos\02.Pawn_Wars\02.Pawn_Wars\obj\Debug\netcoreapp3.1\02.Pawn_Wars.csprojAssemblyReference.cache
+C:\Users\User\source\repos\02.Pawn_Wars\02.Pawn_Wars\obj\Debug\netcoreapp3.1\02.Pawn_Wars.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\02.Pawn_Wars\02.Pawn_Wars\obj\Debug\netcoreapp3.1\02.Pawn_Wars.AssemblyInfo.cs
+C:\Users\User\source\repos\02.Pawn_Wars\02.Pawn_Wars\obj\Debug\netcoreapp3.1\02.Pawn_Wars.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\02.Pawn_Wars\02.Pawn_Wars\obj\Debug\netcoreapp3.1\02.Pawn_Wars.dll
+C:\Users\User\source\repos\02.Pawn_Wars\02.Pawn_Wars\obj\Debug\netcoreapp3.1\02.Pawn_Wars.pdb
+C:\Users\User\source\repos\02.Pawn_Wars\02.Pawn_Wars\obj\Debug\netcoreapp3.1\02.Pawn_Wars.genruntimeconfig.cache
