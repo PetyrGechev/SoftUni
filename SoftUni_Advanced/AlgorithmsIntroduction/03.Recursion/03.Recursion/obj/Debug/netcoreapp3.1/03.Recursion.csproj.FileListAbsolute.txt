@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\SoftUni_Advanced\AlgorithmsIntroduction\03.Recursion\03.Recursion\bin\Debug\netcoreapp3.1\03.Recursion.exe
+C:\Users\User\source\repos\SoftUni_Advanced\AlgorithmsIntroduction\03.Recursion\03.Recursion\bin\Debug\netcoreapp3.1\03.Recursion.deps.json
+C:\Users\User\source\repos\SoftUni_Advanced\AlgorithmsIntroduction\03.Recursion\03.Recursion\bin\Debug\netcoreapp3.1\03.Recursion.runtimeconfig.json
+C:\Users\User\source\repos\SoftUni_Advanced\AlgorithmsIntroduction\03.Recursion\03.Recursion\bin\Debug\netcoreapp3.1\03.Recursion.runtimeconfig.dev.json
+C:\Users\User\source\repos\SoftUni_Advanced\AlgorithmsIntroduction\03.Recursion\03.Recursion\bin\Debug\netcoreapp3.1\03.Recursion.dll
+C:\Users\User\source\repos\SoftUni_Advanced\AlgorithmsIntroduction\03.Recursion\03.Recursion\bin\Debug\netcoreapp3.1\03.Recursion.pdb
+C:\Users\User\source\repos\SoftUni_Advanced\AlgorithmsIntroduction\03.Recursion\03.Recursion\obj\Debug\netcoreapp3.1\03.Recursion.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SoftUni_Advanced\AlgorithmsIntroduction\03.Recursion\03.Recursion\obj\Debug\netcoreapp3.1\03.Recursion.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni_Advanced\AlgorithmsIntroduction\03.Recursion\03.Recursion\obj\Debug\netcoreapp3.1\03.Recursion.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni_Advanced\AlgorithmsIntroduction\03.Recursion\03.Recursion\obj\Debug\netcoreapp3.1\03.Recursion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni_Advanced\AlgorithmsIntroduction\03.Recursion\03.Recursion\obj\Debug\netcoreapp3.1\03.Recursion.dll
+C:\Users\User\source\repos\SoftUni_Advanced\AlgorithmsIntroduction\03.Recursion\03.Recursion\obj\Debug\netcoreapp3.1\03.Recursion.pdb
+C:\Users\User\source\repos\SoftUni_Advanced\AlgorithmsIntroduction\03.Recursion\03.Recursion\obj\Debug\netcoreapp3.1\03.Recursion.genruntimeconfig.cache
