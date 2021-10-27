@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Lab\CustomStack\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.exe
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Lab\CustomStack\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.deps.json
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Lab\CustomStack\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.json
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Lab\CustomStack\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.runtimeconfig.dev.json
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Lab\CustomStack\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Lab\CustomStack\CustomStack\bin\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Lab\CustomStack\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Lab\CustomStack\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Lab\CustomStack\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Lab\CustomStack\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Lab\CustomStack\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.dll
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Lab\CustomStack\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.pdb
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Lab\CustomStack\CustomStack\obj\Debug\netcoreapp3.1\CustomStack.genruntimeconfig.cache
