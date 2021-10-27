@@ -11,7 +11,7 @@ namespace CustomStack
             return Count>0;
         }
 
-        public void AddRange (List<string> list)
+        public void AddRange (IEnumerable<string> list)
         {
 
             foreach (var element in list)
