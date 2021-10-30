@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Exercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+C:\Users\User\source\repos\SoftUni_OPP\Inheritance_Exercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache
