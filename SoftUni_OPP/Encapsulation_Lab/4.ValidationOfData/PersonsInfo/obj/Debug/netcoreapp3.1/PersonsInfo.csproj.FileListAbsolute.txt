@@ -12,3 +12,17 @@ C:\Users\User\source\repos\SoftUni_OPP\Encapsulation_Lab\PersonsInfo\PersonsInfo
 C:\Users\User\source\repos\SoftUni_OPP\Encapsulation_Lab\PersonsInfo\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.dll
 C:\Users\User\source\repos\SoftUni_OPP\Encapsulation_Lab\PersonsInfo\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.pdb
 C:\Users\User\source\repos\SoftUni_OPP\Encapsulation_Lab\PersonsInfo\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.genruntimeconfig.cache
+C:\Users\User\source\repos\SoftUni_OPP\Encapsulation_Lab\4.ValidationOfData\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.exe
+C:\Users\User\source\repos\SoftUni_OPP\Encapsulation_Lab\4.ValidationOfData\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.deps.json
+C:\Users\User\source\repos\SoftUni_OPP\Encapsulation_Lab\4.ValidationOfData\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.json
+C:\Users\User\source\repos\SoftUni_OPP\Encapsulation_Lab\4.ValidationOfData\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.dev.json
+C:\Users\User\source\repos\SoftUni_OPP\Encapsulation_Lab\4.ValidationOfData\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.dll
+C:\Users\User\source\repos\SoftUni_OPP\Encapsulation_Lab\4.ValidationOfData\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.pdb
+C:\Users\User\source\repos\SoftUni_OPP\Encapsulation_Lab\4.ValidationOfData\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SoftUni_OPP\Encapsulation_Lab\4.ValidationOfData\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SoftUni_OPP\Encapsulation_Lab\4.ValidationOfData\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni_OPP\Encapsulation_Lab\4.ValidationOfData\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni_OPP\Encapsulation_Lab\4.ValidationOfData\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni_OPP\Encapsulation_Lab\4.ValidationOfData\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.dll
+C:\Users\User\source\repos\SoftUni_OPP\Encapsulation_Lab\4.ValidationOfData\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.pdb
+C:\Users\User\source\repos\SoftUni_OPP\Encapsulation_Lab\4.ValidationOfData\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.genruntimeconfig.cache
