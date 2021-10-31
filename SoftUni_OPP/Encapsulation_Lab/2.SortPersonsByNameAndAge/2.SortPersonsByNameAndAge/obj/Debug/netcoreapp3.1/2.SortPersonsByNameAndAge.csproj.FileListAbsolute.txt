@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\2.SortPersonsByNameAndAge\2.SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\2.SortPersonsByNameAndAge.exe
+C:\Users\User\source\repos\2.SortPersonsByNameAndAge\2.SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\2.SortPersonsByNameAndAge.deps.json
+C:\Users\User\source\repos\2.SortPersonsByNameAndAge\2.SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\2.SortPersonsByNameAndAge.runtimeconfig.json
+C:\Users\User\source\repos\2.SortPersonsByNameAndAge\2.SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\2.SortPersonsByNameAndAge.runtimeconfig.dev.json
+C:\Users\User\source\repos\2.SortPersonsByNameAndAge\2.SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\2.SortPersonsByNameAndAge.dll
+C:\Users\User\source\repos\2.SortPersonsByNameAndAge\2.SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\2.SortPersonsByNameAndAge.pdb
+C:\Users\User\source\repos\2.SortPersonsByNameAndAge\2.SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\2.SortPersonsByNameAndAge.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\2.SortPersonsByNameAndAge\2.SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\2.SortPersonsByNameAndAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\2.SortPersonsByNameAndAge\2.SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\2.SortPersonsByNameAndAge.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\2.SortPersonsByNameAndAge\2.SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\2.SortPersonsByNameAndAge.AssemblyInfo.cs
+C:\Users\User\source\repos\2.SortPersonsByNameAndAge\2.SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\2.SortPersonsByNameAndAge.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\2.SortPersonsByNameAndAge\2.SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\2.SortPersonsByNameAndAge.dll
+C:\Users\User\source\repos\2.SortPersonsByNameAndAge\2.SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\2.SortPersonsByNameAndAge.pdb
+C:\Users\User\source\repos\2.SortPersonsByNameAndAge\2.SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\2.SortPersonsByNameAndAge.genruntimeconfig.cache

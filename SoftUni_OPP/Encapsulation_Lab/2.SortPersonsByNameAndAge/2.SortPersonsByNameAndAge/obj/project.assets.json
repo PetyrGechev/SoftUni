@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\SoftUni_OPP\\Inheritance_Exercise\\Restaurant\\Restaurant.csproj",
-      "projectName": "Restaurant",
-      "projectPath": "C:\\Users\\User\\source\\repos\\SoftUni_OPP\\Inheritance_Exercise\\Restaurant\\Restaurant.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\SoftUni_OPP\\Encapsulation_Lab\\2.SortPersonsByNameAndAge\\2.SortPersonsByNameAndAge\\PersonsInfo.csproj",
+      "projectName": "PersonsInfo",
+      "projectPath": "C:\\Users\\User\\source\\repos\\SoftUni_OPP\\Encapsulation_Lab\\2.SortPersonsByNameAndAge\\2.SortPersonsByNameAndAge\\PersonsInfo.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\SoftUni_OPP\\Inheritance_Exercise\\Restaurant\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\SoftUni_OPP\\Encapsulation_Lab\\2.SortPersonsByNameAndAge\\2.SortPersonsByNameAndAge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
