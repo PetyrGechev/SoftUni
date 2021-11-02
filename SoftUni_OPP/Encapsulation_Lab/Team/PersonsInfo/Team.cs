@@ -10,12 +10,8 @@ namespace PersonsInfo
         private List<Person> firstTeam;
         private List<Person> reserveTeam;
 
-        public Team(string name)
-        {
-            this.name = name;       
-            firstTeam = new List<Person>();
-            reserveTeam = new List<Person>();
-        }
+
+      
 
         public IReadOnlyCollection<Person> FirstTeam
         {
