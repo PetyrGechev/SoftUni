@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\SoftUni_OPP\Interfaces_and_Abstraction_Exercise\Military_Elite\Military_Elite\obj\Debug\netcoreapp3.1\Military_Elite.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SoftUni_OPP\Interfaces_and_Abstraction_Exercise\Military_Elite\Military_Elite\obj\Debug\netcoreapp3.1\Military_Elite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SoftUni_OPP\Interfaces_and_Abstraction_Exercise\Military_Elite\Military_Elite\obj\Debug\netcoreapp3.1\Military_Elite.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni_OPP\Interfaces_and_Abstraction_Exercise\Military_Elite\Military_Elite\obj\Debug\netcoreapp3.1\Military_Elite.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni_OPP\Interfaces_and_Abstraction_Exercise\Military_Elite\Military_Elite\obj\Debug\netcoreapp3.1\Military_Elite.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni_OPP\Interfaces_and_Abstraction_Exercise\Military_Elite\Military_Elite\bin\Debug\netcoreapp3.1\Military_Elite.exe
+C:\Users\User\source\repos\SoftUni_OPP\Interfaces_and_Abstraction_Exercise\Military_Elite\Military_Elite\bin\Debug\netcoreapp3.1\Military_Elite.deps.json
+C:\Users\User\source\repos\SoftUni_OPP\Interfaces_and_Abstraction_Exercise\Military_Elite\Military_Elite\bin\Debug\netcoreapp3.1\Military_Elite.runtimeconfig.json
+C:\Users\User\source\repos\SoftUni_OPP\Interfaces_and_Abstraction_Exercise\Military_Elite\Military_Elite\bin\Debug\netcoreapp3.1\Military_Elite.runtimeconfig.dev.json
+C:\Users\User\source\repos\SoftUni_OPP\Interfaces_and_Abstraction_Exercise\Military_Elite\Military_Elite\bin\Debug\netcoreapp3.1\Military_Elite.dll
+C:\Users\User\source\repos\SoftUni_OPP\Interfaces_and_Abstraction_Exercise\Military_Elite\Military_Elite\bin\Debug\netcoreapp3.1\Military_Elite.pdb
+C:\Users\User\source\repos\SoftUni_OPP\Interfaces_and_Abstraction_Exercise\Military_Elite\Military_Elite\obj\Debug\netcoreapp3.1\Military_Elite.dll
+C:\Users\User\source\repos\SoftUni_OPP\Interfaces_and_Abstraction_Exercise\Military_Elite\Military_Elite\obj\Debug\netcoreapp3.1\Military_Elite.pdb
+C:\Users\User\source\repos\SoftUni_OPP\Interfaces_and_Abstraction_Exercise\Military_Elite\Military_Elite\obj\Debug\netcoreapp3.1\Military_Elite.genruntimeconfig.cache
