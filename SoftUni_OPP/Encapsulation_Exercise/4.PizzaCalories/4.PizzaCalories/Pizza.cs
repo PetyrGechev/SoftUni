@@ -13,11 +13,11 @@ namespace _4.PizzaCalories
         private Dough dough;
         private List<Topping> toppings;
 
-        public Pizza(string name,Dough dough)
+        public Pizza(string name, Dough dough, List<Topping> toppings)
         {
             this.Name = name;
-            toppings = new List<Topping>();
-            Dough = dough;
+            this.Dough = dough;
+            this.toppings = toppings;
         }
 
         public IReadOnlyCollection<Topping> Toppings => toppings;

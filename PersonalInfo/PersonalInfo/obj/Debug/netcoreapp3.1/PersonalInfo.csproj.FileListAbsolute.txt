@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\PersonalInfo\PersonalInfo\bin\Debug\netcoreapp3.1\PersonalInfo.exe
+C:\Users\User\source\repos\PersonalInfo\PersonalInfo\bin\Debug\netcoreapp3.1\PersonalInfo.deps.json
+C:\Users\User\source\repos\PersonalInfo\PersonalInfo\bin\Debug\netcoreapp3.1\PersonalInfo.runtimeconfig.json
+C:\Users\User\source\repos\PersonalInfo\PersonalInfo\bin\Debug\netcoreapp3.1\PersonalInfo.runtimeconfig.dev.json
+C:\Users\User\source\repos\PersonalInfo\PersonalInfo\bin\Debug\netcoreapp3.1\PersonalInfo.dll
+C:\Users\User\source\repos\PersonalInfo\PersonalInfo\bin\Debug\netcoreapp3.1\PersonalInfo.pdb
+C:\Users\User\source\repos\PersonalInfo\PersonalInfo\obj\Debug\netcoreapp3.1\PersonalInfo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PersonalInfo\PersonalInfo\obj\Debug\netcoreapp3.1\PersonalInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PersonalInfo\PersonalInfo\obj\Debug\netcoreapp3.1\PersonalInfo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PersonalInfo\PersonalInfo\obj\Debug\netcoreapp3.1\PersonalInfo.AssemblyInfo.cs
+C:\Users\User\source\repos\PersonalInfo\PersonalInfo\obj\Debug\netcoreapp3.1\PersonalInfo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PersonalInfo\PersonalInfo\obj\Debug\netcoreapp3.1\PersonalInfo.dll
+C:\Users\User\source\repos\PersonalInfo\PersonalInfo\obj\Debug\netcoreapp3.1\PersonalInfo.pdb
+C:\Users\User\source\repos\PersonalInfo\PersonalInfo\obj\Debug\netcoreapp3.1\PersonalInfo.genruntimeconfig.cache
