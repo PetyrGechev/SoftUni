@@ -1,42 +1,15 @@
 ﻿using System;
-using System.ComponentModel;
-using System.Runtime.InteropServices.ComTypes;
+using System.Collections.Generic;
+using System.Text;
 
-namespace Vehicles
+public class Car : Vehicle
 {
-    public class Car : Vehicle
+    private const double additionalConsumptionPerKm = 0.9;
+
+    public Car(double fuelQuantity, double fuelConsumption, double tankCapacity)
+        : base(fuelQuantity, fuelConsumption, tankCapacity)
     {
-        private const double airConditionersConsumption = 0.9;
-        public Car(double fuelQuantity, double fuelConsumption) : 
-            base(fuelQuantity, fuelConsumption, airConditionersConsumption)
-        {
-        }
-
-        public override void Drive(double distance)
-        {
-            if (CanBeDriven(distance))
-            {
-                FuelQuantity -= distance * FuelConsumption;
-            }
-            else
-            {
-                throw new InvalidOperationException($"{this.GetType().Name} needs refueling");
-            }
-        }
-
-        protected override bool CanBeDriven(double distance)
-        {
-            if (distance*FuelConsumption>FuelQuantity)
-            {
-                return false;
-            }
-
-            return true;
-        }
-
-        public override void Refuel(double amount)
-        {
-            FuelQuantity += amount;
-        }
     }
+
+    protected override double AdditionalConsumption => additionalConsumptionPerKm;
 }

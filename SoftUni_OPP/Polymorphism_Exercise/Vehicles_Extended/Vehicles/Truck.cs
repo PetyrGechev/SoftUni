@@ -1,41 +1,22 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace Vehicles
+public class Truck : Vehicle
 {
-    public class Truck : Vehicle
+    private const double additionalConsumptionPerKm = 1.6;
+    private const double refuelingCoefficient = 0.95;
+
+    public Truck(double fuelQuantity, double fuelConsumption, double tankCapacity)
+        : base(fuelQuantity, fuelConsumption, tankCapacity)
     {
-        private const double additionalFualCompAirCon = 1.6;
+    }
 
-        public Truck(double fuelQuantity, double fuelConsumption) :
-            base(fuelQuantity, fuelConsumption, additionalFualCompAirCon)
-        {
-        }
+    protected override double AdditionalConsumption => additionalConsumptionPerKm;
 
-        public override void Drive(double distance)
-        {
-            if (CanBeDriven(distance))
-            {
-                FuelQuantity -= distance * FuelConsumption;
-            }
-            else
-            {
-                throw new InvalidOperationException($"{this.GetType().Name} needs refueling");
-            }
-        }
-
-        protected override bool CanBeDriven(double distance)
-        {
-            if (distance * FuelConsumption > FuelQuantity)
-            {
-                return false;
-            }
-
-            return true;
-        }
-
-        public override void Refuel(double amount)
-        {
-            FuelQuantity += amount*0.95;
-        }
+    public override void Refuel(double fuel)
+    {
+        base.Refuel(fuel);
+        this.FuelQuantity -= (1 - refuelingCoefficient) * fuel;
     }
 }

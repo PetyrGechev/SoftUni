@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Dynamic;
 using System.Text;
 
 namespace Vehicles
@@ -10,6 +11,7 @@ namespace Vehicles
         //and can be driven a given distance and refueled with a given amount of fuel.
         public double FuelQuantity { get; }
         public double FuelConsumption { get; }
+        public double TankCapacity { get; }
         public void Drive(double distance);
         public void Refuel(double amount);
     };

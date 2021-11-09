@@ -1,73 +1,67 @@
 ﻿using System;
-using System.Data;
 
-namespace Vehicles
+class Program
 {
-    public class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            //"Car {fuel quantity} {liters per km}"
-            string[] carInfo = Console.ReadLine().Split(" ");
-            Vehicle car = new Car(double.Parse(carInfo[1]), double.Parse(carInfo[2]));
-            string[] truckInfo = Console.ReadLine().Split(" ");
-            Vehicle truck = new Truck(double.Parse(truckInfo[1]), double.Parse(truckInfo[2]));
-            int n = int.Parse(Console.ReadLine());
+        string[] input = Console.ReadLine().Split();
+        Vehicle car = new Car(double.Parse(input[1]), double.Parse(input[2]), double.Parse(input[3]));
+        input = Console.ReadLine().Split();
+        Vehicle truck = new Truck(double.Parse(input[1]), double.Parse(input[2]), double.Parse(input[3]));
+        input = Console.ReadLine().Split();
+        Vehicle bus = new Bus(double.Parse(input[1]), double.Parse(input[2]), double.Parse(input[3]));
 
-            for (int i = 0; i < n; i++)
+        int count = int.Parse(Console.ReadLine());
+
+        for (int i = 0; i < count; i++)
+        {
+            input = Console.ReadLine().Split();
+
+            string type = input[1];
+            string command = input[0];
+            double value = double.Parse(input[2]);
+
+            switch (type)
             {
+                case nameof(Car):
+                    ExecuteCommand(car, command, value);
+                    break;
+                case nameof(Truck):
+                    ExecuteCommand(truck, command, value);
+                    break;
+                case nameof(Bus):
+                    ExecuteCommand(bus, command, value);
+                    break;
+            }
+        }
+
+        Console.WriteLine(car);
+        Console.WriteLine(truck);
+        Console.WriteLine(bus);
+    }
+
+    private static void ExecuteCommand(Vehicle vehicle, string command, double value)
+    {
+        switch (command)
+        {
+            case "Drive":
+                Console.WriteLine(vehicle.Drive(value));
+                break;
+            case "Refuel":
                 try
                 {
-                    string[] commandInfo = Console.ReadLine().Split();
-                    if (commandInfo[0] == "Drive")
-                    {
-                        if (commandInfo[1] == "Car")
-                        {
-                            double distance = double.Parse(commandInfo[2]);
-                            car.Drive(distance);
-                            Console.WriteLine($"Car travelled {distance} km");
-                        }
-                        else if (commandInfo[1] == "Truck")
-                        {
-
-                            double distance = double.Parse(commandInfo[2]);
-                            truck.Drive(distance);
-                            Console.WriteLine($"Truck travelled {distance} km");
-                        }
-
-                    }
-                    else if (commandInfo[0] == "Refuel")
-                    {
-                        if (commandInfo[1] == "Car")
-                        {
-                            double amountFuel = double.Parse(commandInfo[2]);
-                            car.Refuel(amountFuel);
-                        }
-                        else if (commandInfo[1] == "Truck")
-                        {
-
-                            double amountFuel = double.Parse(commandInfo[2]);
-                            truck.Refuel(amountFuel);
-                        }
-
-                    }
-
+                    vehicle.Refuel(value);
                 }
-                catch (Exception ex)
+                catch (ArgumentException ex)
                 {
                     Console.WriteLine(ex.Message);
-               
                 }
-
-            }
-            Console.WriteLine($"Car: {car.FuelQuantity:f2}");
-            Console.WriteLine($"Truck: {truck.FuelQuantity:f2}");
-
-
+                break;
+            case "DriveEmpty":
+                ((Bus)vehicle).SwitchOffAirConditioner();
+                Console.WriteLine(vehicle.Drive(value));
+                ((Bus)vehicle).SwitchOnAirConditioner();
+                break;
         }
-
-
-        
-        }
+    }
 }
-
