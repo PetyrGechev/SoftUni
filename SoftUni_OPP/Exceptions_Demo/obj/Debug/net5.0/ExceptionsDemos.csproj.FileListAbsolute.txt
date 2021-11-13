@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\SoftUni_OPP\Exceptions_Demo\bin\Debug\net5.0\ExceptionsDemos.exe
+C:\Users\User\source\repos\SoftUni_OPP\Exceptions_Demo\bin\Debug\net5.0\ExceptionsDemos.deps.json
+C:\Users\User\source\repos\SoftUni_OPP\Exceptions_Demo\bin\Debug\net5.0\ExceptionsDemos.runtimeconfig.json
+C:\Users\User\source\repos\SoftUni_OPP\Exceptions_Demo\bin\Debug\net5.0\ExceptionsDemos.runtimeconfig.dev.json
+C:\Users\User\source\repos\SoftUni_OPP\Exceptions_Demo\bin\Debug\net5.0\ExceptionsDemos.dll
+C:\Users\User\source\repos\SoftUni_OPP\Exceptions_Demo\bin\Debug\net5.0\ref\ExceptionsDemos.dll
+C:\Users\User\source\repos\SoftUni_OPP\Exceptions_Demo\bin\Debug\net5.0\ExceptionsDemos.pdb
+C:\Users\User\source\repos\SoftUni_OPP\Exceptions_Demo\obj\Debug\net5.0\ExceptionsDemos.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SoftUni_OPP\Exceptions_Demo\obj\Debug\net5.0\ExceptionsDemos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SoftUni_OPP\Exceptions_Demo\obj\Debug\net5.0\ExceptionsDemos.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni_OPP\Exceptions_Demo\obj\Debug\net5.0\ExceptionsDemos.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni_OPP\Exceptions_Demo\obj\Debug\net5.0\ExceptionsDemos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni_OPP\Exceptions_Demo\obj\Debug\net5.0\ExceptionsDemos.dll
+C:\Users\User\source\repos\SoftUni_OPP\Exceptions_Demo\obj\Debug\net5.0\ref\ExceptionsDemos.dll
+C:\Users\User\source\repos\SoftUni_OPP\Exceptions_Demo\obj\Debug\net5.0\ExceptionsDemos.pdb
+C:\Users\User\source\repos\SoftUni_OPP\Exceptions_Demo\obj\Debug\net5.0\ExceptionsDemos.genruntimeconfig.cache
