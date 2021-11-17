@@ -6,7 +6,7 @@ namespace Solid.Interfaces
     {
        
         public ILayout Layout { get;  }
-
+        public ReportLevel ReportLevel { get; set; }
         public void Append(string dateTime, ReportLevel reportLevel, string message);
     }
 }

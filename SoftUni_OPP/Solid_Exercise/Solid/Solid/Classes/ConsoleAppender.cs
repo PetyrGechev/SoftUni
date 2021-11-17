@@ -13,9 +13,15 @@ namespace Solid.Classes
             Layout = layout;
         }
         public ILayout Layout { get; }
+        public ReportLevel ReportLevel { get; set; }
+
         public void Append(string dateTime, ReportLevel reportLevel, string message)
         {
-            Console.WriteLine(string.Format(this.Layout.Format,dateTime,reportLevel,message));
+            if (ReportLevel<=reportLevel)
+            {
+                Console.WriteLine(string.Format(this.Layout.Format, dateTime, reportLevel, message));
+            }
+            
         }
 
        

@@ -14,11 +14,16 @@ namespace Solid.Classes
             LogFile = file;
         }
         public ILayout Layout { get; }
-        public ILogFile LogFile { get;  }
+        public ReportLevel ReportLevel { get; set; }
+        public ILogFile LogFile { get; set; }
         public void Append(string dateTime, ReportLevel reportLevel, string message)
         {
-            string info = string.Format(this.Layout.Format, dateTime, reportLevel, message);
-            File.AppendAllText(FilePath,info+Environment.NewLine);
+            if (ReportLevel<=reportLevel)
+            {
+                string info = string.Format(this.Layout.Format, dateTime, reportLevel, message);
+                File.AppendAllText(FilePath, info + Environment.NewLine);
+            }
+            
         }
     }
 }
