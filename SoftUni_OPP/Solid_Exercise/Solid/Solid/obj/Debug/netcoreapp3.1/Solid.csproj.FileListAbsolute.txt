@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\SoftUni_OPP\Solid_Exercise\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.exe
+C:\Users\User\source\repos\SoftUni_OPP\Solid_Exercise\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.deps.json
+C:\Users\User\source\repos\SoftUni_OPP\Solid_Exercise\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.runtimeconfig.json
+C:\Users\User\source\repos\SoftUni_OPP\Solid_Exercise\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.runtimeconfig.dev.json
+C:\Users\User\source\repos\SoftUni_OPP\Solid_Exercise\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.dll
+C:\Users\User\source\repos\SoftUni_OPP\Solid_Exercise\Solid\Solid\bin\Debug\netcoreapp3.1\Solid.pdb
+C:\Users\User\source\repos\SoftUni_OPP\Solid_Exercise\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SoftUni_OPP\Solid_Exercise\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SoftUni_OPP\Solid_Exercise\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni_OPP\Solid_Exercise\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni_OPP\Solid_Exercise\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni_OPP\Solid_Exercise\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.dll
+C:\Users\User\source\repos\SoftUni_OPP\Solid_Exercise\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.pdb
+C:\Users\User\source\repos\SoftUni_OPP\Solid_Exercise\Solid\Solid\obj\Debug\netcoreapp3.1\Solid.genruntimeconfig.cache
