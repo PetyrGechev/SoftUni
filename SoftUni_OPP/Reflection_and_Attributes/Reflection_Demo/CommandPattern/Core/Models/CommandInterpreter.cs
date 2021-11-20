@@ -15,13 +15,12 @@ namespace CommandPattern.Core.Models
                 string command = inputInfo[0] + "Command";
                 string[] input = inputInfo[1..];
 
-                Type type = Assembly.GetCallingAssembly().GetTypes()
-                    .Where(t => t.Name == command)
-                    .FirstOrDefault();
+                Type type = Assembly.GetCallingAssembly().GetTypes().Where(t => t.Name == command).FirstOrDefault();
                 if (type==null)
                 {
                     throw new InvalidOperationException("Invalid operation ");
                 }
+
                 ICommand theCommand = (ICommand)Activator.CreateInstance(type);
                  result = theCommand.Execute(input);
                 return result;
