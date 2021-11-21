@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\EgnValidator\bin\Debug\netcoreapp3.1\EgnValidatorProgram.exe
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\EgnValidator\bin\Debug\netcoreapp3.1\EgnValidatorProgram.deps.json
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\EgnValidator\bin\Debug\netcoreapp3.1\EgnValidatorProgram.runtimeconfig.json
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\EgnValidator\bin\Debug\netcoreapp3.1\EgnValidatorProgram.runtimeconfig.dev.json
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\EgnValidator\bin\Debug\netcoreapp3.1\EgnValidatorProgram.dll
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\EgnValidator\bin\Debug\netcoreapp3.1\EgnValidatorProgram.pdb
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\EgnValidator\obj\Debug\netcoreapp3.1\EgnValidatorProgram.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\EgnValidator\obj\Debug\netcoreapp3.1\EgnValidatorProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\EgnValidator\obj\Debug\netcoreapp3.1\EgnValidatorProgram.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\EgnValidator\obj\Debug\netcoreapp3.1\EgnValidatorProgram.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\EgnValidator\obj\Debug\netcoreapp3.1\EgnValidatorProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\EgnValidator\obj\Debug\netcoreapp3.1\EgnValidatorProgram.dll
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\EgnValidator\obj\Debug\netcoreapp3.1\EgnValidatorProgram.pdb
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\EgnValidator\obj\Debug\netcoreapp3.1\EgnValidatorProgram.genruntimeconfig.cache

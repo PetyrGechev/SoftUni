@@ -9,3 +9,15 @@ D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\La
 D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Tests\obj\Debug\Tests.dll
 D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Tests\obj\Debug\Tests.pdb
 D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Tests\bin\Debug\Castle.Core.dll
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\Lab\Tests\bin\Debug\Tests.dll
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\Lab\Tests\bin\Debug\Tests.pdb
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\Lab\Tests\bin\Debug\nunit.framework.dll
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\Lab\Tests\bin\Debug\Skeleton.exe
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\Lab\Tests\bin\Debug\Skeleton.pdb
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\Lab\Tests\bin\Debug\Skeleton.exe.config
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\Lab\Tests\bin\Debug\nunit.framework.xml
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\Lab\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\Lab\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\Lab\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\Lab\Tests\obj\Debug\Tests.dll
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\Lab\Tests\obj\Debug\Tests.pdb

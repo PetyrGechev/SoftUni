@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using EgnValidatorProgram;
 
 namespace EgnValidator.Tests
 {
@@ -23,10 +24,26 @@ namespace EgnValidator.Tests
         [Test]
         public void GenerateShouldReturnListOfNumbersForValidInput()
         {
+            //var generator = new EgnValidatorProgram.EgnValidator();
+            //var result = generator.Generate(DateTime.Now, "София - град", EgnValidatorProgram.Gender.Female);
+            //Assert.NotNull(result);
+            //Assert.AreEqual(49, result.Length);
             var generator = new EgnValidatorProgram.EgnValidator();
-            var result = generator.Generate(DateTime.Now, "София - град", EgnValidatorProgram.Gender.Female);
-            Assert.NotNull(result);
-            Assert.AreEqual(49, result.Length);
+            var result = generator.Generate(DateTime.Now, "Варна", Gender.Male);
+            foreach (var egn in result)
+            {
+                Assert.NotNull(egn);
+            }
+        }
+        [Test]
+        public void GenerateShouldNotReturnNulls()
+        {
+            var generator = new EgnValidatorProgram.EgnValidator();
+            var result = generator.Generate(DateTime.Now, "Варна", Gender.Male);
+            foreach (var egn in result)
+            {
+                Assert.NotNull(egn);
+            }
         }
 
         // Regression test

@@ -4,3 +4,10 @@ D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\La
 D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Skeleton\obj\Debug\Skeleton.csprojResolveAssemblyReference.cache
 D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Skeleton\obj\Debug\Skeleton.exe
 D:\SoftUni\csharp-oop-advanced\July-2017\06. CSharp-OOP-Advanced-Unit-Testing\Lab\Skeleton\obj\Debug\Skeleton.pdb
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\Lab\Skeleton\bin\Debug\Skeleton.exe.config
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\Lab\Skeleton\bin\Debug\Skeleton.exe
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\Lab\Skeleton\bin\Debug\Skeleton.pdb
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\Lab\Skeleton\obj\Debug\Skeleton.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\Lab\Skeleton\obj\Debug\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\Lab\Skeleton\obj\Debug\Skeleton.exe
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting\Lab\Skeleton\obj\Debug\Skeleton.pdb
