@@ -90,7 +90,8 @@ C:\Users\User\source\repos\SoftUni_OPP\UnitTesting_Exercise\DatabaseExtended.Tes
 C:\Users\User\source\repos\SoftUni_OPP\UnitTesting_Exercise\DatabaseExtended.Tests\obj\Debug\netcoreapp3.1\DatabaseExtended.Tests.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\SoftUni_OPP\UnitTesting_Exercise\DatabaseExtended.Tests\obj\Debug\netcoreapp3.1\DatabaseExtended.Tests.AssemblyInfo.cs
 C:\Users\User\source\repos\SoftUni_OPP\UnitTesting_Exercise\DatabaseExtended.Tests\obj\Debug\netcoreapp3.1\DatabaseExtended.Tests.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\SoftUni_OPP\UnitTesting_Exercise\DatabaseExtended.Tests\obj\Debug\netcoreapp3.1\DatabaseExtended.Tests.csproj.CopyComplete
 C:\Users\User\source\repos\SoftUni_OPP\UnitTesting_Exercise\DatabaseExtended.Tests\obj\Debug\netcoreapp3.1\DatabaseExtended.Tests.dll
 C:\Users\User\source\repos\SoftUni_OPP\UnitTesting_Exercise\DatabaseExtended.Tests\obj\Debug\netcoreapp3.1\DatabaseExtended.Tests.pdb
 C:\Users\User\source\repos\SoftUni_OPP\UnitTesting_Exercise\DatabaseExtended.Tests\obj\Debug\netcoreapp3.1\DatabaseExtended.Tests.genruntimeconfig.cache
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting_Exercise\DatabaseExtended.Tests\bin\Debug\netcoreapp3.1\DatabaseExtended.dll
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting_Exercise\DatabaseExtended.Tests\bin\Debug\netcoreapp3.1\DatabaseExtended.pdb

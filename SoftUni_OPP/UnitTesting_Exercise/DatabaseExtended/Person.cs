@@ -7,7 +7,7 @@
 
         public Person(long id, string userName)
         {
-            this.Id = id;
+            this.Id = id; 
             this.UserName = userName;
         }
 
