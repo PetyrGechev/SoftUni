@@ -90,7 +90,8 @@ C:\Users\User\source\repos\SoftUni_OPP\UnitTesting_Exercise\CarManager.Tests\obj
 C:\Users\User\source\repos\SoftUni_OPP\UnitTesting_Exercise\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.AssemblyInfoInputs.cache
 C:\Users\User\source\repos\SoftUni_OPP\UnitTesting_Exercise\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.AssemblyInfo.cs
 C:\Users\User\source\repos\SoftUni_OPP\UnitTesting_Exercise\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\SoftUni_OPP\UnitTesting_Exercise\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.csproj.CopyComplete
 C:\Users\User\source\repos\SoftUni_OPP\UnitTesting_Exercise\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.dll
 C:\Users\User\source\repos\SoftUni_OPP\UnitTesting_Exercise\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.pdb
 C:\Users\User\source\repos\SoftUni_OPP\UnitTesting_Exercise\CarManager.Tests\obj\Debug\netcoreapp3.1\CarManager.Tests.genruntimeconfig.cache
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting_Exercise\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\User\source\repos\SoftUni_OPP\UnitTesting_Exercise\CarManager.Tests\bin\Debug\netcoreapp3.1\CarManager.pdb
