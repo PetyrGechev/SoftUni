@@ -13,7 +13,7 @@ namespace CarRacing.Models.Racers
         private int drivingExperience;
         private ICar car;
 
-        public Racer(string username, string racingBehavior, int drivingExperience, ICar car)
+        protected Racer(string username, string racingBehavior, int drivingExperience, ICar car)
         {
             this.Username = username;
             this.RacingBehavior = racingBehavior;
@@ -24,7 +24,7 @@ namespace CarRacing.Models.Racers
         public string Username
         {
             get => username;
-            set
+            private set
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {

@@ -1,8 +1,6 @@
-﻿using CarRacing.Models.Cars.Contracts;
+﻿using System;
+using CarRacing.Models.Cars.Contracts;
 using CarRacing.Utilities.Messages;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace CarRacing.Models.Cars
 {
@@ -14,9 +12,8 @@ namespace CarRacing.Models.Cars
         private int horsePower;
         private double fuelAvailable;
         private double fuelConsumptionPerRace;
-
-        protected  Car(string make, string model, string VIN, 
-            int horsePower, double fuelAvailable, double fuelConsumptionPerRace)
+        protected Car(string make, string model, string VIN, int horsePower,
+            double fuelAvailable, double fuelConsumptionPerRace)
         {
             this.Make = make;
             this.Model = model;
@@ -27,33 +24,33 @@ namespace CarRacing.Models.Cars
         }
 
         public string Make
-        { 
+        {
             get => make;
             private set
             {
+
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentException("Car make cannot be null or empty.");
+                    throw new ArgumentException(ExceptionMessages.InvalidCarMake);
                 }
 
                 make = value;
             }
         }
-
         public string Model
         {
             get => model;
             private set
             {
+
                 if (string.IsNullOrWhiteSpace(value))
                 {
-                    throw new ArgumentException("Car model cannot be null or empty.");
+                    throw new ArgumentException(ExceptionMessages.InvalidCarModel);
                 }
 
                 model = value;
             }
         }
-
         public string VIN
         {
             get => vin;
@@ -61,7 +58,7 @@ namespace CarRacing.Models.Cars
             {
                 if (value.Length != 17)
                 {
-                    throw new ArgumentException("Car VIN must be exactly 17 characters long.");
+                    throw new ArgumentException(ExceptionMessages.InvalidCarVIN);
                 }
 
                 vin = value;
@@ -75,11 +72,12 @@ namespace CarRacing.Models.Cars
             {
                 if (value < 0)
                 {
-                    throw new ArgumentException("Horse power cannot be below 0.");
+                    throw new ArgumentException(ExceptionMessages.InvalidCarHorsePower);
                 }
 
                 horsePower = value;
             }
+
         }
 
         public double FuelAvailable
@@ -93,6 +91,7 @@ namespace CarRacing.Models.Cars
                 }
 
                 fuelAvailable = value;
+
             }
         }
 
@@ -103,16 +102,18 @@ namespace CarRacing.Models.Cars
             {
                 if (value < 0)
                 {
-                    throw new ArgumentException("Fuel consumption cannot be below 0.");
+                    throw new ArgumentException(ExceptionMessages.InvalidCarFuelConsumption);
                 }
 
                 fuelConsumptionPerRace = value;
             }
-        }
 
+        }
         public virtual void Drive()
         {
-            FuelAvailable -= fuelConsumptionPerRace;
+            //TODO change tunedcar behaviar
+
+            fuelAvailable -= fuelConsumptionPerRace;
         }
     }
 }
