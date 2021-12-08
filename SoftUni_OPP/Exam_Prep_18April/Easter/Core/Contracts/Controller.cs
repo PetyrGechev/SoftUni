@@ -36,7 +36,8 @@ namespace Easter.Core.Contracts
             else
                 throw new InvalidOperationException($"Invalid bunny type.");
             bunnies.Add(bunny);
-            return $"Successfully added {bunnyType}: {bunnyName}!";
+            return $"Successfully added {bunnyType} named {bunnyName}.";
+                
         }
 
         public string AddDyeToBunny(string bunnyName, int power)
