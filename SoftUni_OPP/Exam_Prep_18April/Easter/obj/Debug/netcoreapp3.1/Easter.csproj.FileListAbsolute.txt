@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Easter\bin\Debug\netcoreapp3.1\Easter.exe
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Easter\bin\Debug\netcoreapp3.1\Easter.deps.json
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.json
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.dev.json
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Easter\bin\Debug\netcoreapp3.1\Easter.dll
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Easter\bin\Debug\netcoreapp3.1\Easter.pdb
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Easter\obj\Debug\netcoreapp3.1\Easter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Easter\obj\Debug\netcoreapp3.1\Easter.dll
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Easter\obj\Debug\netcoreapp3.1\Easter.pdb
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Easter\obj\Debug\netcoreapp3.1\Easter.genruntimeconfig.cache
