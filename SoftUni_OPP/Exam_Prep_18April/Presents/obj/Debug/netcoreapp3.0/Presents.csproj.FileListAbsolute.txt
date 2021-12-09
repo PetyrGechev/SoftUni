@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Presents\bin\Debug\netcoreapp3.0\Presents.exe
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Presents\bin\Debug\netcoreapp3.0\Presents.deps.json
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Presents\bin\Debug\netcoreapp3.0\Presents.dll
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Presents\bin\Debug\netcoreapp3.0\Presents.pdb
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Presents\obj\Debug\netcoreapp3.0\Presents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Presents\obj\Debug\netcoreapp3.0\Presents.dll
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Presents\obj\Debug\netcoreapp3.0\Presents.pdb
+C:\Users\User\source\repos\SoftUni_OPP\Exam_Prep_18April\Presents\obj\Debug\netcoreapp3.0\Presents.genruntimeconfig.cache
