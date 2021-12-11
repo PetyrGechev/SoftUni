@@ -7,7 +7,7 @@
     public class Bag
     {
         private List<Present> presents;
-
+        
         public Bag()
         {
             this.presents = new List<Present>();
@@ -24,6 +24,7 @@
                 throw new InvalidOperationException("This present already exists!");
             }
 
+        
             this.presents.Add(present);
 
             return $"Successfully added present {present.Name}.";
