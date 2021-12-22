@@ -1,0 +1,44 @@
+@import url("https://use.fontawesome.com/releases/v5.15.4/css/all.css");
+a,
+button {
+    cursor: pointer;
+    outline: none;
+    font-family: Helvetica, sans-serif;
+    margin-inline-end: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    margin: 50px;
+    background: lightgray;
+}
+
+.button {
+    padding: 5px;
+    border-radius: 17px;
+    border: 2px solid black;
+    color: black;
+    background: lightgray;
+    font-size: 16px;
+}
+
+.button.hover:hover {
+    border-color: lightgreen;
+    color: lightgreen;
+    background-color: white;
+}
+
+.button.fill.hover:hover {
+    border-color: lightgreen;
+    color: white;
+    background-color: green;
+    border: none;
+}
+
+.fill {
+    background: black;
+    color: lightgray;
+}
