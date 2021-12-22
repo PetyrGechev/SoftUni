@@ -1,0 +1,25 @@
+    @import url('https://use.fontawesome.com/releases/v5.15.4/css/all.css');
+    body {
+        margin: 60px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    a {
+        display: block;
+        width: fit-content;
+        color: white;
+        text-decoration: none;
+        padding: 5px 10px;
+        margin-bottom: 20px;
+        border-radius: 5px;
+    }
+    
+    .p1 {
+        background: green;
+        border: 1px solid;
+    }
+    
+    .p2 {
+        background: orange;
+        border: 1px solid;
+    }
