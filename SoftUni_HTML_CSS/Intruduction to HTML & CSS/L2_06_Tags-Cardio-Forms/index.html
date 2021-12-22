@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+
+<body>
+    <form>
+        <fieldset>
+            <legend>Custumer details</legend>
+            <div>
+                <label for="fisrtName">First Name</label>
+                <input id="fisrtName" type="text" placeholder="George" autofocus />
+            </div>
+            <div>
+                <label for="secondName">Second Name</label>
+                <input id="secondName" type="text" placeholder="Devis">
+            </div>
+            <div>
+                <label for="Male">Male</label>
+                <input type="radio" name="gender">
+                <label for="Female">Female</label>
+                <input type="radio" name="gender">
+                <label for="Other">Other</label>
+                <input type="radio" name="gender">
+            </div>
+            <div>
+                Prefered contact method:
+                <label for="">Email</label>
+                <input type="radio" name="contact" id="">
+                <label for="">Phone</label>
+                <input type="radio" name="contact" id="">
+            </div>
+            <div>
+                <label for="">Email</label>
+                <input type="email" name="" id="" placeholder="youremail@email.com">
+            </div>
+            <div>
+                <label for="">Phone</label>
+                <input type="text" placeholder="+359123456789">
+            </div>
+            <div>
+                <label for="town">Town</label>
+                <select name="Town" id="town">
+                    <option value="Varna">Varna</option>
+                    <option value="Rakovski">Rakovski</option>
+                    <option value="Na Kura mi otGore">Na Kura mi otGore</option>
+                </select>
+            </div>
+            <div>
+                <label for="age">Age</label>
+                <input type="number" min="18" max="60">
+            </div>
+            <div>
+                <label for="info">Programing language</label>
+                <input list="infoLanguage" id="info" name="info">
+                <datalist id="infoLanguage">
+                    <option value="C#">
+                    <option value="C+">
+                    <option value="php">
+                </datalist>
+            </div>
+            <div>
+                <label for="Information"></label>
+                <textarea name="Information" placeholder="More informaton..." id="Information" cols="30" rows="10"></textarea>
+            </div>
+            <div>
+
+                <input type="checkbox" checked>
+                <label for="checkbox">Terms and conditions - FU</label>
+                <div>
+                    <label for="submit"></label>
+                    <input type="submit" name="" id="">
+                </div>
+
+        </fieldset>
+    </form>
+</body>
+
+</html>
