@@ -1,0 +1,20 @@
+section {
+    width: 250px;
+    height: 250px;
+    border: 3px dotted lightgreen;
+    text-align: center;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+p {
+    width: 100%;
+    padding: 20px;
+    border: 3px solid darkblue;
+}
+
+* {
+    box-sizing: border-box;
+}
