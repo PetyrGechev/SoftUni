@@ -1,3 +1,17 @@
 body {
     font-family: 'Yuji Hentaigana Akebono', cursive;
 }
+
+p {
+    background-color: tomato;
+}
+
+h1 {
+    background-color: yellowgreen;
+}
+
+p,
+h1 {
+    padding: 20px;
+    margin: 20px;
+}
