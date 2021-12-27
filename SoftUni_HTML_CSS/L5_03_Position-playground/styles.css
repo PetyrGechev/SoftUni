@@ -1,0 +1,41 @@
+    @import url("https://use.fontawesome.com/releases/v5.15.4/css/all.css");
+    .viewport {
+        display: block;
+        position: relative;
+    }
+    
+    body {
+        margin: 0;
+    }
+    
+    .viewport {
+        height: 100vh;
+    }
+    
+    .viewport:nth-child(1) {
+        background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 49%, rgba(0, 212, 255, 1) 100%);
+    }
+    
+    .viewport:nth-child(2) {
+        background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(217, 94, 12, 1) 56%, rgba(252, 176, 69, 1) 100%);
+    }
+    
+    .card {
+        top: 50%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, -50%);
+    }
+    
+    img {
+        border-radius: 4px;
+        box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.5);
+    }
+    
+    i:nth-child(1) {
+        color: white;
+        position: absolute;
+        font-size: 20px;
+        right: 3px;
+        bottom: 7px;
+    }
