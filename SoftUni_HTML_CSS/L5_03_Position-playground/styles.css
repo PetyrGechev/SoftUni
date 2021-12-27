@@ -32,8 +32,16 @@
         box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.5);
     }
     
-    i:nth-child(1) {
+    .card #dd {
         color: white;
+        position: absolute;
+        font-size: 20px;
+        right: 3px;
+        bottom: 7px;
+    }
+    
+    #bb {
+        color: rgb(22, 150, 50);
         position: absolute;
         font-size: 20px;
         right: 3px;
