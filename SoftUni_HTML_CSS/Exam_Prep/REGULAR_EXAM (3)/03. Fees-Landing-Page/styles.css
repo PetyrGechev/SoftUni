@@ -76,7 +76,6 @@ h6 {
 
 .program {
     background-color: white;
-    padding: 10px;
     border-radius: 10px;
     width: 25%;
     margin: 25px;
@@ -95,4 +94,39 @@ h6 {
     color: whitesmoke;
     background-color: purple;
     border: 0 solid purple;
+    text-transform: uppercase;
+    font-weight: bolder
+}
+
+.program-footer {
+    background: rgb(131, 58, 180);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(33, 217, 12, 1) 0%, rgba(156, 252, 69, 0.7539390756302521) 100%);
+}
+
+.program-footer-fundamentals {
+    background: rgb(131, 58, 180);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(110, 119, 109, 1) 0%, rgba(69, 143, 252, 1) 100%);
+}
+
+.program-footer-profesional {
+    background: rgb(131, 58, 180);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(114, 109, 119, 1) 0%, rgba(188, 69, 252, 0.8827906162464986) 83%);
+}
+
+.program-subtitle {
+    padding: 20px;
+}
+
+.pragram-footer-title,
+.online-title {
+    padding-top: 10px;
+}
+
+.program-footer-fundamentals,
+.program-footer-profesional {
+    display: flex;
+}
+
+.program-footer-online {
+    border-right: 1px solid white;
 }
