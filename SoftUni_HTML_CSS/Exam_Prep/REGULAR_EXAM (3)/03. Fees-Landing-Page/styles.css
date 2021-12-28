@@ -61,10 +61,38 @@ h6 {
 .programs {
     background-color: #54536f;
     padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
 }
 
 .programs-title {
     color: white;
     text-align: center;
     margin-bottom: 40px;
+    flex-basis: 100%;
+}
+
+.program {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    width: 25%;
+    margin: 25px;
+    max-width: 450px;
+    background-color: #FFFFED;
+}
+
+.program-title {
+    font-size: 25px;
+    color: #54536f;
+}
+
+.program-cta {
+    padding: 10px 25px;
+    border-radius: 30px;
+    color: whitesmoke;
+    background-color: purple;
+    border: 0 solid purple;
 }
