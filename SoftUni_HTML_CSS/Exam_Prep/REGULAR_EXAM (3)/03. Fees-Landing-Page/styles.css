@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Grechen+Fuemen&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Shizuru&family=Yuji+Hentaigana+Akebono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grechen+Fuemen&family=Montserrat:ital,wght@0,200;0,300;0,400;1,100;1,200;1,300&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Shizuru&family=Yuji+Hentaigana+Akebono&display=swap');
+body {
+    margin: 0;
+    background-color: #FFFFED;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    padding: 0 20px;
+    max-height: 1000px;
+    margin: 0 auto;
+}
+
+.nav {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-list {
+    display: flex;
+    margin-right: 60px;
+}
+
+.nav-list-item a {
+    text-decoration: none;
+    margin: 20px 8px;
+    color: purple;
+}
+
+.nav-list-item {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.nav-logo {
+    width: 120px;
+    margin-left: 60px;
+}
+
+.nav-logo img {
+    width: 100%;
+}
+
+.programs {
+    background-color: #54536f;
+    padding: 50px;
+}
+
+.programs-title {
+    color: white;
+    text-align: center;
+    margin-bottom: 40px;
+}
