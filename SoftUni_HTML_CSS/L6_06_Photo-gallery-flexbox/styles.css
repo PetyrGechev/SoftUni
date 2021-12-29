@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+section {
+    display: flex;
+}
+
+.galery {
+    background-color: rgb(180, 178, 178);
+}
+
+body,
+ul,
+li {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    border: 8px solid black;
+    display: flex;
+    margin: 20px;
+    padding: 50px 20px;
+    background-color: white;
+}
+
+ul {
+    justify-content: space-between;
+}
+
+.dve {
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.pet,
+.devet {
+    padding-top: 165px;
+    padding-bottom: 165px;
+}
