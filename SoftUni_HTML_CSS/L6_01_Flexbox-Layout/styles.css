@@ -1,0 +1,58 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 50px;
+    background-color: whitesmoke;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+header,
+footer,
+main,
+aside {
+    background-color: white;
+    -webkit-box-shadow: -1px 1px 5px 4px rgba(189, 178, 178, 0.75);
+    -moz-box-shadow: -1px 1px 5px 4px rgba(214, 205, 205, 0.75);
+    box-shadow: -1px 1px 5px 4px rgba(214, 205, 205, 0.75);
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+.Header-text {
+    margin-bottom: 60px;
+    font-size: 10px;
+    padding: 16px;
+    text-transform: uppercase;
+}
+
+footer,
+header {
+    flex-basis: 100%;
+}
+
+main {
+    flex-grow: 3.4;
+    margin-right: 27px;
+}
+
+aside {
+    flex-grow: 1;
+}
+
+.Main-text,
+.Aside-text {
+    margin-bottom: 200px;
+    font-size: 10px;
+    padding: 16px;
+    text-transform: uppercase;
+}
+
+.Footer-text {
+    margin-bottom: 100px;
+    font-size: 10px;
+    padding: 16px;
+    text-transform: uppercase;
+}
