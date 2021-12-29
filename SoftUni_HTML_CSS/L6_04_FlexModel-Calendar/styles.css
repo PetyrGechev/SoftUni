@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 65vw;
+    margin: 80px auto;
+}
+
+.container,
+section {
+    display: flex;
+    justify-content: space-around;
+}
+
+span {
+    border: 1px solid black;
+    padding: 15px 15px 70px 15px;
+}
+
+.notes {
+    flex-direction: column;
+}
+
+.week {
+    flex-wrap: wrap;
+}
+
+.Workweek,
+.Weekend {
+    flex-basis: 100%;
+    font-weight: bolder;
+}
+
+.REMINDER,
+.Special-Dates {
+    flex-grow: 1;
+}
+
+.Saturday,
+.Sunday {
+    flex-grow: 1;
+}
+
+.Monday,
+.Tuesday,
+.Wednesday,
+.Thrusday,
+.Friday {
+    font-size: 12px;
+    flex-grow: 1;
+}
+
+span {
+    text-align: center;
+}
