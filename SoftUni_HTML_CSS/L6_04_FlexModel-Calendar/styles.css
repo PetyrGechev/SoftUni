@@ -7,12 +7,6 @@
     margin: 80px auto;
 }
 
-.container,
-section {
-    display: flex;
-    justify-content: space-around;
-}
-
 span {
     border: 1px solid black;
     padding: 15px 15px 70px 15px;
@@ -22,6 +16,12 @@ span {
     flex-direction: column;
 }
 
+div,
+section {
+    display: flex;
+    justify-content: space-between;
+}
+
 .week {
     flex-wrap: wrap;
 }
@@ -29,7 +29,6 @@ span {
 .Workweek,
 .Weekend {
     flex-basis: 100%;
-    font-weight: bolder;
 }
 
 .REMINDER,
@@ -49,8 +48,17 @@ span {
 .Friday {
     font-size: 12px;
     flex-grow: 1;
+    padding-bottom: 56px;
 }
 
 span {
     text-align: center;
+}
+
+.week {
+    flex-grow: 4;
+}
+
+.notes {
+    flex-grow: 1;
 }
