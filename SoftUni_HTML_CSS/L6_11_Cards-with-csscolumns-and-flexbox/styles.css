@@ -17,7 +17,7 @@
         border-top-right-radius: 12px;
     }
     
-    img {
+    .masonry img {
         width: 100%;
         height: 100%;
     }
@@ -43,6 +43,37 @@
         display: inline-block;
     }
     
-    section {
+    .masonry section {
         column-count: 3;
+    }
+    
+    .flex section {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        align-items: stretch;
+    }
+    
+    .flex .card {
+        width: 30%;
+        margin: 15px;
+    }
+    
+    .flex img {
+        width: 100%;
+        object-fit: fill;
+    }
+    
+    .flex .card-content {
+        height: 80%;
+    }
+    
+    .card {
+        background-color: white;
+        border: 1px solid black;
+        border-radius: 12px;
+        box-shadow: 1px 1px 1px lightgrey;
+        margin-bottom: 15px;
+        display: flex;
+        flex-direction: column;
     }
