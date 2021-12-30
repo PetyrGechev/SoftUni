@@ -1,30 +1,27 @@
 body {
     display: flex;
-    background-color: rgb(238, 238, 238);
-    box-sizing: border-box;
-    min-height: 100vh;
-    align-items: center;
-    justify-content: center;
-    flex-direction: row;
     flex-wrap: wrap;
+    background-color: rgb(238, 238, 238);
+    height: 100vh;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
 }
 
 section {
-    min-height: 250px;
     display: flex;
-    max-width: 65vw;
+    height: 25vh;
+    width: 65vw;
+}
+
+article {
+    margin: 5px;
 }
 
 img {
-    height: 98%;
-    width: 98%;
-    border-radius: 7px;
-    box-shadow: 1px 1px 14px black;
+    height: 100%;
+    width: 100%;
     object-fit: cover;
-}
-
-.container article {
-    margin: 7px;
 }
 
 .dve {
@@ -33,9 +30,4 @@ img {
 
 article {
     flex-shrink: 3;
-}
-
-img:nth-child(2) {
-    border-left: 5px solid black;
-    border-right: 5px solid black;
 }
