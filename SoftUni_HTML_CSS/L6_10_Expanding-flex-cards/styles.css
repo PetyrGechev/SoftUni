@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    background-color: rgb(238, 238, 238);
+    box-sizing: border-box;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+section {
+    min-height: 250px;
+    display: flex;
+    max-width: 65vw;
+}
+
+img {
+    height: 98%;
+    width: 98%;
+    border-radius: 7px;
+    box-shadow: 1px 1px 14px black;
+    object-fit: cover;
+}
+
+.container article {
+    margin: 7px;
+}
+
+.dve {
+    flex-shrink: 1;
+}
+
+article {
+    flex-shrink: 3;
+}
+
+img:nth-child(2) {
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+}

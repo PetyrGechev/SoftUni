@@ -1,0 +1,29 @@
+        div {
+            background-color: lightgray;
+            height: 100vh;
+            align-items: center;
+            display: flex;
+        }
+        
+        section {
+            background-color: white;
+            width: 350px;
+            border-radius: 15px;
+            padding: 5px;
+            box-shadow: 0px 0px 9px 3px grey
+        }
+        
+        * {
+            box-sizing: border-box;
+        }
+        
+        body {
+            background-color: lightgray;
+            display: flex;
+            align-content: space-around;
+            flex-wrap: wrap;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-around;
+            align-items: center
+        }
