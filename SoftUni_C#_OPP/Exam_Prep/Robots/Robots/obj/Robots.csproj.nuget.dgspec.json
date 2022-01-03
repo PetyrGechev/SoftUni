@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\SoftUni_OPP\\Exam_Prep\\Robots\\Robots\\Robots.csproj": {}
+    "C:\\Users\\i7T540\\Documents\\GitHub\\SoftUni\\SoftUni_C#_OPP\\Exam_Prep\\Robots\\Robots\\Robots.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\SoftUni_OPP\\Exam_Prep\\Robots\\Robots\\Robots.csproj": {
+    "C:\\Users\\i7T540\\Documents\\GitHub\\SoftUni\\SoftUni_C#_OPP\\Exam_Prep\\Robots\\Robots\\Robots.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\SoftUni_OPP\\Exam_Prep\\Robots\\Robots\\Robots.csproj",
+        "projectUniqueName": "C:\\Users\\i7T540\\Documents\\GitHub\\SoftUni\\SoftUni_C#_OPP\\Exam_Prep\\Robots\\Robots\\Robots.csproj",
         "projectName": "Robots",
-        "projectPath": "C:\\Users\\User\\source\\repos\\SoftUni_OPP\\Exam_Prep\\Robots\\Robots\\Robots.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\SoftUni_OPP\\Exam_Prep\\Robots\\Robots\\obj\\",
+        "projectPath": "C:\\Users\\i7T540\\Documents\\GitHub\\SoftUni\\SoftUni_C#_OPP\\Exam_Prep\\Robots\\Robots\\Robots.csproj",
+        "packagesPath": "C:\\Users\\i7T540\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\i7T540\\Documents\\GitHub\\SoftUni\\SoftUni_C#_OPP\\Exam_Prep\\Robots\\Robots\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\i7T540\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
