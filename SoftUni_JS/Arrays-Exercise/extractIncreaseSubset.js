@@ -8,7 +8,7 @@ function solve(array){
        }
         
     }
-    console.log(result.join( ))
+    return result;
 }
 
 solve([20, 
