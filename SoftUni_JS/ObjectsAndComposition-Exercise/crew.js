@@ -1,10 +1,6 @@
 function solve (obj){
-    result={}
+    result=Object.assign({},obj);
     
-    result.weight=obj.weight;
-    result.experience = obj.experience;
-    result.levelOfHydrated=obj.levelOfHydrated;
-    result.dizziness=obj.dizziness;
     if(result.dizziness){
         let amountToAdd=0.1*obj.experience*obj.weight;
         result.levelOfHydrated+=amountToAdd;
