@@ -7,20 +7,17 @@ class ArtGallery {
 
     }
     addArticle (articleModel, articleName, quantity ){
-        articleModel=articleModel.toLowerCase();
-        if(!this.possibleArticles[articleModel]){
+        let ValidatedArticleModel=articleModel.toLowerCase();
+        if(!this.possibleArticles[ValidatedArticleModel]){
             throw new Error("This article model is not included in this gallery!");
         }
-        // console.log(this.listOfArticles.some(x=>x.articleName==articleName));
-        // console.log(this.listOfArticles.some(x=>x.articleModel==articleModel))
-
-        if((this.listOfArticles.some(x=>x.articleName==articleName)) && (this.listOfArticles.some(x=>x.articleModel==articleModel)) ){
+        if(this.listOfArticles.some(x=>x.articleName==articleName , x=>x.articleModel==ValidatedArticleModel)){
             let article=this.listOfArticles.find(x=>x.articleName==articleName);
             article.quantity+=quantity;
             return `Successfully added article ${articleName} with a new quantity- ${quantity}.`  // !!!!!!!!!!!!!!!! 
 
         }else{
-            let newArticle={articleModel,articleName,quantity};
+            let newArticle={ValidatedArticleModel,articleName,quantity};
             this.listOfArticles.push(newArticle);
             return `Successfully added article ${articleName} with a new quantity- ${quantity}.`  // !!!!!!!!!!!!!!!! 
 
@@ -44,20 +41,20 @@ class ArtGallery {
         return `You have successfully invited ${guestName}!`
     }
     buyArticle ( articleModel, articleName, guestName){
-        /////////////////////////// FINDINDEX!!!!!!!!!!!!!!!!!
+        
         let validArtocleModel=articleModel.toLowerCase();
-        let articleToFind =this.listOfArticles.find((x=>x.articleName==articleName));
+        let articleToFind =this.listOfArticles.findIndex((x=>x.articleName==articleName) && (c=>c.articleModel==validArtocleModel));
 
-        if(!articleToFind==undefined || articleToFind.articleModel!=validArtocleModel){
+        if(!articleToFind==-1 || articleToFind.articleModel!=validArtocleModel){
             throw new Error("This article is not found.");
         }
         if(articleToFind.quantity==0){
             return `The ${articleName} is not available.`
         }
-        if(!this.guests.some(x=>x.guestName==guestName)){
+        if(!this.guest.some(x=>x.guestName==guestName)){
             return(`This guest is not invited.`);
         }
-        let theGuest=this.guests.find(x=>x.guestName==guestName);
+        let theGuest=guest.find(x=>x.guestName==guestName);
 
         let moneyNeeed=this.possibleArticles[articleModel];
 
@@ -73,35 +70,32 @@ class ArtGallery {
         if(criteria=='article'){
             let result=[];
             result.push("Articles information:");
-            this.listOfArticles.forEach(element => {
+            listOfArticles.forEach(element => {
                 //{articleModel:, articleName:, quantity:}
                 result.push(`${element.articleModel} - ${element.articleName} - ${element.quantity}`)
             });
-            return result.join("\r\n").trimEnd();
+            return result.join('/n').trimEnd();
         }else if(criteria=='guest'){
             let result=[];
             result.push("Guests information:");
-            this.guests.forEach(element=>{
+            guests.forEach(element=>{
                 result.push(`${element.guestName} - ${element.purchaseArticle}`)
             })
-            return result.join("\r\n").trimEnd();
+            return result.join('/n').trimEnd();
         }
     }
 
 
 }
 
-
-const artGallery = new ArtGallery('Curtis Mayfield'); 
+const artGallery = new ArtGallery('Curtis Mayfield');
 artGallery.addArticle('picture', 'Mona Liza', 3);
 artGallery.addArticle('Item', 'Ancient vase', 2);
 artGallery.addArticle('picture', 'Mona Liza', 1);
 artGallery.inviteGuest('John', 'Vip');
 artGallery.inviteGuest('Peter', 'Middle');
-artGallery.buyArticle('picture', 'Mona Liza', 'John');
-artGallery.buyArticle('item', 'Ancient vase', 'Peter');
-console.log(artGallery.showGalleryInfo('article'));
-console.log(artGallery.showGalleryInfo('guest'));
-
+console.log(artGallery.buyArticle('picture', 'Mona Liza', 'John'));
+console.log(artGallery.buyArticle('item', 'Ancient vase', 'Peter'));
+console.log(artGallery.buyArticle('item', 'Mona Liza', 'John'));
 
 
