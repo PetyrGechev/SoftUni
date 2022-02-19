@@ -16,6 +16,9 @@ function solution() {
     e.preventDefault();
     let fullNameElement=document.getElementById('fname');
     let emailElement=document.getElementById('email');
+
+    emailElement.classList.add('test')
+
     let phoneNumberElement=document.getElementById('phone');
     let addressElement=document.getElementById('address');
     let postCodeElement=document.getElementById('code');
