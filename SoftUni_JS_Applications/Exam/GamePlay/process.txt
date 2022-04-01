@@ -1,0 +1,36 @@
+[ ] unpack project and install dependencies
+[ ] Create app entry point with placeholders
+[ ] implement rending dependency ingection
+
+	Implement views
+
+-Home
+[ ]reading functionality in Data service
+[ ]template and view control
+
+-Catalog
+[ ]Extend reading functionalit in Data service
+[ ]template and view control
+
+-login and register
+[ ]Crate User service
+[ ]Template and view control
+[ ]Submit form and error handling
+
+-Navigation header
+[ ]Session middleware
+[ ]Extend rending middleware to include navbar
+[ ]template and view control
+[ ]
+-Create
+[ ]Writing functionality in data service
+[ ]template na view control
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
+[ ]
